@@ -1,0 +1,22 @@
+
+.box1 {
+    background-color: tan;
+    height: 350px;
+    width: 400px;
+    margin: 100px 100px;
+    display: flex;
+    font-size: 30px;
+    color: black;
+
+
+}
+img {
+    height: 500px;
+    width: 450px;
+    position: relative;
+    bottom: 155px;
+    right: 10px;
+}
+h3 {
+ padding: 5px;
+}
